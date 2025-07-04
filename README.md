@@ -19,7 +19,7 @@ GSM module 📱
 
 - **Manual control**: Two Push Button for navigate menus and make settings 🕹
 
-![RCS](Images/RCS(4).jpg)
+![RCS](Image/RCS4.jpg)
 
 
 ### 📋 Additional Details:
